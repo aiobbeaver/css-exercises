@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd {
+  background-color: rgb(255, 186, 186);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cooler {
+  font-size: 24px;
+}
+#num-two {
+  color: blue;
+  font-size: 36px;
+}
+#num-four {
+  background-color: rgb(116, 254, 112);
+  font-size: 24px;
+  font-weight: bold;
+}
